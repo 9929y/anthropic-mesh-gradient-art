@@ -1,0 +1,65 @@
+{
+  "skill_name": "anthropic-mesh-gradient-art",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a square editorial illustration for a headquarters brand manager responsible for consistency across 200 local restaurant locations. I want Anthropic Art, but with my Studio mesh gradient taste. It should show one brand source of truth, mandatory rules, optional guidance, approvals, and violation risk without looking like a dashboard or HR recruiting image. Also make the lines feel touched by the mesh gradient, not just the background.",
+      "expected_output": "A generated image prompt or image output that uses Anthropic-inspired primary black linework, an ivory carrier shape, semantic mesh-gradient fields, and restrained mesh-tinted connection/status lines.",
+      "files": [],
+      "expectations": [
+        "The output describes or uses a semantic mesh gradient, not just a decorative gradient background.",
+        "The output includes restrained mesh-tinted line accents while keeping black as the main linework anchor.",
+        "The output preserves an ivory carrier/source shape and bold hand-drawn black linework.",
+        "The output avoids HR/recruiting cues and dashboard/UI panels."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Make a hero image concept for an AI memory layer that stores brand voice, menu facts, and past campaign preferences. I like Anthropic editorial art but want the background and some of the root/path lines to feel like a soft mesh gradient Studio field.",
+      "expected_output": "A concept or generated image prompt that uses the Memory Field model: warm ivory/oat for stored knowledge, fig for voice/taste/identity, and sky/cactus for retrieval and reuse, while keeping one symbolic metaphor.",
+      "files": [],
+      "expectations": [
+        "The output chooses a memory-oriented mesh semantic role.",
+        "The output uses mesh-tinted roots or retrieval paths without turning every contour into gradient color.",
+        "The output reduces the concept to one dominant metaphor instead of a literal UI.",
+        "The output keeps palette and detail restrained."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "I need a social card for product operations: one central system catches local mistakes before they become expensive. Please make it hand drawn and gradient-y, premium not SaaS-glossy.",
+      "expected_output": "A social-card image prompt or output with a Tension or Governance Field mesh, one central symbolic relationship, hand-drawn linework, and restrained premium gradient atmosphere.",
+      "files": [],
+      "expectations": [
+        "The output treats warm gradient areas as risk or tension rather than visual decoration.",
+        "The output avoids neon, glossy SaaS, 3D, robots, and generic AI poster tropes.",
+        "The output remains readable as one metaphor at thumbnail size."
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "Use this skill to create a layered SVG illustration, not a PNG. The image should show a headquarters brand manager protecting one shared restaurant brand identity across local operators. I want the mesh gradient to appear in the background and in selected route/status lines, with editable layers for Figma.",
+      "expected_output": "A standalone SVG file or SVG source that uses named layer groups, semantic mesh-gradient definitions, an irregular ivory carrier, near-black primary linework, and restrained mesh-tinted status/route lines.",
+      "files": [],
+      "expectations": [
+        "The output is native SVG and does not embed a raster PNG/JPEG with an image tag.",
+        "The SVG includes named groups for mesh-gradient-background, ivory-carrier, primary-ink-linework, mesh-tinted-linework, persona-figure, and symbols-and-props.",
+        "The SVG includes title and desc accessibility metadata.",
+        "The mesh-tinted lines communicate governance status rather than acting as decorative rainbow strokes."
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "The SVG is editable, but it feels too clean and diagram-like. Please make a painterly layered SVG version with stronger drawing feeling, while keeping the same Anthropic-mesh style and separated Figma-friendly layers.",
+      "expected_output": "A native layered SVG that keeps named editable groups while adding subtle paper grain, roughened ink linework, organic mesh-gradient washes, and duplicate low-opacity offset strokes.",
+      "files": [],
+      "expectations": [
+        "The output stays native SVG and does not embed a raster image.",
+        "The main objects remain separated into named layer groups.",
+        "The linework has visible hand-drawn qualities such as wobble, rough filter displacement, or duplicate offset strokes.",
+        "The mesh gradient uses organic washes or irregular patches rather than only clean circular glows.",
+        "Texture remains subtle enough that the persona and metaphor are still readable."
+      ]
+    }
+  ]
+}
